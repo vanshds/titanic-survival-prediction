@@ -11,7 +11,7 @@ This project builds a machine learning model to predict passenger survival on th
 📈 matplotlib and seaborn for visualization
 
 📂 Dataset
-📥 Source: Kaggle Titanic dataset (titanic.csv)
+📥 Source: Kaggle Titanic dataset (https://www.kaggle.com/c/titanic)
 
 🔑 Features used:
 
