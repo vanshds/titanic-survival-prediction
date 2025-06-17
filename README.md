@@ -21,6 +21,9 @@ This project builds a machine learning model to predict passenger survival on th
 💰 Fare
 🎯 Target variable: Survived (0 = No, 1 = Yes)
 
+Contact:
+Vansh Bhimani - vanshbhimani1@gmail.com
+
 🧹 Data Preprocessing
 🔢 Converted categorical variables (Sex) into numerical values using Label Encoding.
 
